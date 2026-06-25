@@ -1,0 +1,17 @@
+{
+  "depot": {
+    "lat": 13.0827,
+    "lon": 80.2707
+  },
+  "vehicle": {
+    "capacities": [20, 50, 100],
+    "count": 3
+  },
+  "solver": {
+    "time_limit": 5
+  },
+  "time": {
+    "depot_start": 480,
+    "depot_end": 1440
+  }
+}
